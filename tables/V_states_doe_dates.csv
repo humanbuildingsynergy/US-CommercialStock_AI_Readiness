@@ -1,0 +1,18 @@
+state,edition,pnnl_year,doe_year,pnnl_status,doe_source,doe_date,doe_confidence
+CT,2016,2020,2022,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/connecticut (Wayback 2023-10-10),2022-10-01,high
+FL,2016,2019,2020,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/florida (Wayback 2021-11-29),2020-12-31,high
+HI,2013,2016,2020,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/adoption/states/hawaii (Wayback 2020-10-16),2020-10-16,low
+LA,2010,2015,2023,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/louisiana (Wayback 2024-06-19),2023-07-01,medium
+LA,2013,2018,2023,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/louisiana (Wayback 2024-06-19),2023-07-01,medium
+ME,2010,2019,2021,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/maine (Wayback 2021-11-29),2021-07-01,medium
+ME,2013,2019,2021,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/maine (Wayback 2021-11-29),2021-07-01,medium
+MT,2013,2019,2021,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/montana (Wayback 2021-11-29),2021-02-13,high
+NM,2010,2020,2021,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/new-mexico (Wayback 2021-11-29),2021-03-25,high
+NM,2013,2020,2021,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/new-mexico (Wayback 2021-11-29),2021-03-25,high
+NM,2016,2020,2021,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/new-mexico (Wayback 2021-11-29),2021-03-25,high
+OH,2013,2019,2024,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/ohio (Wayback 2024-05-29),2024-03-01,medium
+OH,2016,2019,2024,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/ohio (Wayback 2024-05-29),2024-03-01,medium
+PA,2013,2019,2018,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/adoption/states/pennsylvania (Wayback 2020-10-16),2018-10-01,high
+RI,2016,2020,2022,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/rhode-island (Wayback 2022-05-15),2022-02-01,high
+VA,2013,2019,2018,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/adoption/states/virginia (Wayback 2020-04-13),2018-09-04,high
+WV,2013,2019,2022,reported as actual (PNNL-31437 Appendix A.1: actual years shown for editions up to 90.1-2016),DOE BECP state page energycodes.gov/status/states/west-virginia (Wayback 2023-04-08),2022-09-30,medium

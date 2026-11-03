@@ -1,0 +1,13 @@
+by,name,answer levels,question types,weight under primary,weight under equal
+domain,thermal,16,6,0.210526,0.166667
+domain,energy,12,5,0.157895,0.166667
+domain,airquality,16,6,0.210526,0.166667
+domain,equipment,16,6,0.210526,0.166667
+domain,occupancy,8,4,0.105263,0.166667
+domain,lighting,8,4,0.105263,0.166667
+intent,status,11,6,0.144737,0.166667
+intent,summary,12,6,0.157895,0.166667
+intent,comparison,16,6,0.210526,0.166667
+intent,verification,9,3,0.118421,0.166667
+intent,diagnosis,16,6,0.210526,0.166667
+intent,explanation,12,4,0.157895,0.166667

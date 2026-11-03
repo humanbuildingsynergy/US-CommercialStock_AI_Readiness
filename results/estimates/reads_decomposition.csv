@@ -1,0 +1,50 @@
+scenario,group,statistic,estimate,W,B,T,se,df,fmi,lo95,hi95,M,interval scale
+strict (low),h2b,status tier: floor-area share / building share,6.9203,3.12399,3.01268,6.15173,2.48027,68.8748,0.506308,3.38528,14.1467,200,log
+strict (low),imputed-answer contrast,mean code-required level,0.256168,2.35232e-06,9.00789e-07,3.25761e-06,0.00180488,102.641,0.291572,0.252588,0.259747,200,natural
+strict (low),imputed-answer contrast,mean declared level,0.34224,1.39718e-05,4.44212e-07,1.44182e-05,0.00379713,143.356,0.0442053,0.334735,0.349746,200,natural
+strict (low),imputed-answer contrast,mean linked level,0.120415,7.75275e-06,3.29096e-05,4.08269e-05,0.00638959,25.7266,0.823328,0.107274,0.133556,200,natural
+strict (low),imputed-answer contrast,status tier (linked),0.0052729,2.41196e-06,2.01271e-06,4.43473e-06,0.00210588,74.2643,0.470199,0.00237628,0.0116591,200,logit
+strict (low),imputed-answer contrast,summary tier (linked),0.0103792,5.48375e-06,5.93168e-06,1.14451e-05,0.00338306,64.6766,0.535024,0.0054031,0.0198467,200,logit
+strict (low),imputed-answer contrast,diagnosis tier (linked),0,0,0,0,0,148.039,1,0,0,200,logit
+strict (low),imputed-answer contrast,below the status tier (linked),0.994727,2.41196e-06,2.01271e-06,4.43473e-06,0.00210588,74.2643,0.470199,0.988341,0.997624,200,logit
+strict (low),imputed-answer contrast,diagnosis tier (declared),0.193521,9.64177e-05,4.58214e-06,0.000101023,0.010051,141.083,0.0588325,0.174422,0.214168,200,logit
+strict (low),imputed-answer contrast,linked below code-required,0.769896,0.000105119,0.000338633,0.000445446,0.0211056,31.688,0.77762,0.724114,0.810074,200,logit
+strict (low),imputed-answer contrast,linked level zero,0.304452,0.000112175,0.000281583,0.000395166,0.0198788,37.9172,0.730007,0.26576,0.34612,200,logit
+strict (low),imputed-answer contrast,at the minimal code-required profile,0.92701,3.51823e-05,7.45057e-06,4.26701e-05,0.00653224,119.798,0.18891,0.912974,0.938935,200,logit
+primary,h2b,status tier: floor-area share / building share,4.27267,0.328668,0.147313,0.476718,0.690448,97.2533,0.324315,3.10038,5.88821,200,log
+primary,imputed-answer contrast,mean code-required level,0.255991,2.26346e-06,6.89395e-07,2.9563e-06,0.00171939,109.906,0.247923,0.252584,0.259399,200,natural
+primary,imputed-answer contrast,mean declared level,0.342114,1.38793e-05,3.30162e-07,1.42111e-05,0.00376977,144.525,0.0365892,0.334663,0.349565,200,natural
+primary,imputed-answer contrast,mean linked level,0.143269,1.4993e-05,5.92052e-05,7.44942e-05,0.008631,27.1971,0.812066,0.125566,0.160972,200,natural
+primary,imputed-answer contrast,status tier (linked),0.0784722,3.79761e-05,9.37627e-05,0.000132208,0.0114982,38.3595,0.726644,0.0581361,0.105128,200,logit
+primary,imputed-answer contrast,summary tier (linked),0.0853442,4.19821e-05,9.09988e-05,0.000133436,0.0115514,41.963,0.699371,0.0647367,0.111728,200,logit
+primary,imputed-answer contrast,diagnosis tier (linked),0.049659,2.3115e-05,4.58938e-05,6.92383e-05,0.00832096,44.5164,0.680204,0.0353363,0.0693697,200,logit
+primary,imputed-answer contrast,below the status tier (linked),0.921528,3.79761e-05,9.37627e-05,0.000132208,0.0114982,38.3595,0.726644,0.894872,0.941864,200,logit
+primary,imputed-answer contrast,diagnosis tier (declared),0.193194,9.57827e-05,3.44062e-06,9.92405e-05,0.00996195,142.757,0.0480862,0.174261,0.213652,200,logit
+primary,imputed-answer contrast,linked below code-required,0.721587,0.000120669,0.000462433,0.000585415,0.0241953,27.8256,0.807248,0.669423,0.768367,200,logit
+primary,imputed-answer contrast,linked level zero,0.307119,0.000110865,0.00025648,0.000368628,0.0191997,40.1327,0.713194,0.269737,0.347218,200,logit
+primary,imputed-answer contrast,at the minimal code-required profile,0.927481,3.49521e-05,6.15213e-06,4.1135e-05,0.00641366,124.017,0.163686,0.913717,0.939196,200,logit
+primary,h4,vintage - type (with controls),-0.0232197,5.28121e-05,6.13949e-05,0.000114514,0.0107011,62.0891,0.552986,-0.0446103,-0.00182903,200,natural
+primary,decomposition,code-required thermostat,0.149626,6.37188e-07,6.27137e-32,6.37188e-07,0.000798241,148.039,0.0132416,0.148049,0.151204,200,natural
+primary,decomposition,code-required metering,0.105366,2.25156e-07,1.05025e-07,3.30706e-07,0.000575071,95.8452,0.332941,0.104225,0.106508,200,natural
+primary,decomposition,code-required BAS HVAC points,0,0,0,0,0,148.039,1,0,0,200,natural
+primary,decomposition,"code-required occupancy, lighting, CO2",0.00267608,1.94876e-07,1.77543e-07,3.73306e-07,0.000610988,70.9829,0.492085,0.0014578,0.00389436,200,natural
+primary,decomposition,declared thermostat,0.152713,7.0656e-07,1.98702e-10,7.06759e-07,0.00084069,147.997,0.0135241,0.151052,0.154375,200,natural
+primary,decomposition,declared metering,0.105366,2.25156e-07,1.05025e-07,3.30706e-07,0.000575071,95.8452,0.332941,0.104225,0.106508,200,natural
+primary,decomposition,declared BAS HVAC points,0.00308695,1.74203e-08,1.98702e-10,1.762e-08,0.00013274,146.348,0.0245732,0.00282461,0.00334928,200,natural
+primary,decomposition,"declared occupancy, lighting, CO2",0.0827874,6.04165e-06,1.67961e-07,6.21045e-06,0.00249208,143.939,0.0404213,0.0778616,0.0877132,200,natural
+primary,decomposition,linked thermostat,0.0601988,3.81628e-06,2.89925e-05,3.29537e-05,0.00574054,16.0622,0.896343,0.0480332,0.0723644,200,natural
+primary,decomposition,linked metering,0.0571311,1.26171e-06,7.78728e-07,2.04433e-06,0.0014298,85.6059,0.396756,0.0542886,0.0599737,200,natural
+primary,decomposition,linked BAS HVAC points,0.00207757,1.04696e-08,6.54812e-08,7.62782e-08,0.000276185,18.884,0.875288,0.00149926,0.00265587,200,natural
+primary,decomposition,"linked occupancy, lighting, CO2",0.0254996,2.21533e-06,7.40123e-06,9.65357e-06,0.00310702,30.8461,0.784078,0.0191615,0.0318377,200,natural
+enriched (high),h2b,status tier: floor-area share / building share,4.2805,0.318358,0.127523,0.446518,0.66822,101.13,0.300716,3.14055,5.83422,200,log
+enriched (high),imputed-answer contrast,mean code-required level,0.256146,2.32794e-06,6.62608e-07,2.99386e-06,0.00173028,111.908,0.235963,0.252718,0.259574,200,natural
+enriched (high),imputed-answer contrast,mean declared level,0.351447,1.53443e-05,3.58764e-07,1.57049e-05,0.00396294,144.585,0.0361988,0.343614,0.35928,200,natural
+enriched (high),imputed-answer contrast,mean linked level,0.149664,1.68672e-05,7.48199e-05,9.20613e-05,0.00959486,24.8626,0.829934,0.129898,0.169431,200,natural
+enriched (high),imputed-answer contrast,status tier (linked),0.0800383,3.87431e-05,0.000109935,0.000149227,0.0122159,34.7551,0.754128,0.0584853,0.108618,200,logit
+enriched (high),imputed-answer contrast,summary tier (linked),0.0869165,4.24243e-05,0.000102409,0.000145345,0.0120559,38.9679,0.722024,0.0654269,0.114599,200,logit
+enriched (high),imputed-answer contrast,diagnosis tier (linked),0.0521152,2.38475e-05,4.94904e-05,7.35853e-05,0.00857819,43.2163,0.689945,0.0372937,0.0723843,200,logit
+enriched (high),imputed-answer contrast,below the status tier (linked),0.919962,3.87431e-05,0.000109935,0.000149227,0.0122159,34.7551,0.754128,0.891382,0.941515,200,logit
+enriched (high),imputed-answer contrast,diagnosis tier (declared),0.196768,9.32682e-05,3.52085e-06,9.68067e-05,0.00983904,142.492,0.0497958,0.178042,0.216945,200,logit
+enriched (high),imputed-answer contrast,linked below code-required,0.715335,0.000126067,0.000513502,0.000642137,0.0253404,26.5583,0.81696,0.660585,0.764403,200,logit
+enriched (high),imputed-answer contrast,linked level zero,0.303589,0.000110362,0.000294139,0.000405972,0.0201488,36.3467,0.741972,0.26435,0.345913,200,logit
+enriched (high),imputed-answer contrast,at the minimal code-required profile,0.927007,3.55515e-05,5.24513e-06,4.08228e-05,0.00638928,127.545,0.14247,0.913311,0.938684,200,logit

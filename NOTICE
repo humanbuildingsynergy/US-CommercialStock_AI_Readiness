@@ -1,0 +1,29 @@
+us-commercial-ai-readiness
+Copyright 2026 Wooyoung Jung
+
+Code (atlas/, scripts/, figures/src/ and the top-level files): Apache License, Version 2.0 (LICENSE).
+
+This study's tables and results (tables/ and results/, the figures and table files under figures/): Creative Commons
+Attribution 4.0 International (CC BY 4.0), see LICENSE-DATA.md, except the tables listed below.
+
+Reference-set tables. tables/R_reference_set.csv, tables/R_linkage_graphs.csv, tables/R_linkage_classes.csv,
+tables/R_linkage_size.csv, tables/E_controls_presence.csv, results/scoring/reference_set_counts.csv and
+results/reference_set/assumption_check.csv are copied or derived from the census of 45 building knowledge graphs
+published with the readiness framework:
+
+  Jung, W. (2026). building-ai-readiness: code, results and supplement for a measurement-based AI-readiness
+  assessment of buildings (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23197610
+  https://github.com/humanbuildingsynergy/building-ai-readiness
+
+Those results are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/legalcode), and the tables above keep that license.
+The floor areas in tables/R_linkage_size.csv are read from the brick:Building nodes of the Mortar knowledge graphs
+(Fierro et al., 2019), one of that census's sources; each graph file's SHA-256 is in the table.
+
+The question canon in atlas/canon.py (the requirement table _V2, the stream vocabulary and the ceiling) is copied
+verbatim from the same release's bara/canon.py, licensed under the Apache License, Version 2.0.
+
+Third-party data are not redistributed. scripts/fetch_data.py downloads each input from its publisher and checks its
+SHA-256: the 2018 Commercial Buildings Energy Consumption Survey and Form EIA-861 and the State Energy Data System
+(U.S. Energy Information Administration, public domain), and the 2018 cartographic boundary file of the U.S. Census
+Bureau (public domain).

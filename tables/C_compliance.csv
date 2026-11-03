@@ -1,0 +1,10 @@
+clause_row,clause,rung_from,streams,c,role,source
+C05,90.1-2013 §9.4.1.1(g)/(h) and Table 9.6.1 (2010 addendum by),2013,Occ,1.0,reference,"sweep value, no source (no published installed-control rate)"
+C05,90.1-2013 §9.4.1.1(g)/(h) and Table 9.6.1 (2010 addendum by),2013,Occ,0.75,sweep,"sweep value, no source (no published installed-control rate)"
+C05,90.1-2013 §9.4.1.1(g)/(h) and Table 9.6.1 (2010 addendum by),2013,Occ,0.5,sweep,"sweep value, no source (no published installed-control rate)"
+C08,90.1-2013 §8.4.3 electrical energy monitoring (2010 addenda bz + bn),2013,Lgt+Pwr+Sub+Sub2,1.0,reference,"sweep value, no source (no published installed-control rate)"
+C08,90.1-2013 §8.4.3 electrical energy monitoring (2010 addenda bz + bn),2013,Lgt+Pwr+Sub+Sub2,0.75,sweep,"sweep value, no source (no published installed-control rate)"
+C08,90.1-2013 §8.4.3 electrical energy monitoring (2010 addenda bz + bn),2013,Lgt+Pwr+Sub+Sub2,0.5,sweep,"sweep value, no source (no published installed-control rate)"
+C15,"90.1-2013 §10.4.5 whole-building energy monitoring (2010 addendum bn, numbered 10.4.4 there)",2013,Sub,1.0,reference,"sweep value, no source (no published installed-control rate)"
+C15,"90.1-2013 §10.4.5 whole-building energy monitoring (2010 addendum bn, numbered 10.4.4 there)",2013,Sub,0.75,sweep,"sweep value, no source (no published installed-control rate)"
+C15,"90.1-2013 §10.4.5 whole-building energy monitoring (2010 addendum bn, numbered 10.4.4 there)",2013,Sub,0.5,sweep,"sweep value, no source (no published installed-control rate)"

@@ -1,0 +1,15 @@
+variable,systems,codebook_question,assumption
+RENHVC,hvac,"Which types of renovations have been done since the year 2000 or since it was constructed? HVAC (heating, ventilation, or air conditioning) equipment upgrade?","HVAC controls and HVAC-side clauses re-dated to the renovation window; whether 90.1 alteration provisions carry each control clause to replaced equipment is decided per clause in Table C"
+RENLGT,lighting,"Which types of renovations have been done since the year 2000 or since it was constructed? Lighting upgrade?","lighting controls re-dated to the renovation window; whether the lighting-alteration trigger was met is unknown (CBECS gives no share of fixtures replaced), so Table C states it per clause"
+RENELC,electrical,"Which types of renovations have been done since the year 2000 or since it was constructed? Electrical upgrade?","electrical-service clauses (metering / energy monitoring) re-dated to the renovation window; applicability of monitoring clauses to alterations decided in Table C"
+RENCOS,,Cosmetic improvements,no system re-dated
+RENADD,,Addition or annex,"no system re-dated (an addition is new construction for its own area only; CBECS gives no area share)"
+RENRDC,,Reduction of floorspace,no system re-dated
+RENINT,,Interior wall re-configuration,no system re-dated
+RENRFF,,Roof replacement,no system re-dated (envelope)
+RENWIN,,Window replacement,no system re-dated (envelope)
+RENPLB,,Plumbing system upgrade,no system re-dated
+RENINS,,Insulation upgrade,no system re-dated (envelope)
+RENSAF,,"Fire, safety, or security upgrade",no system re-dated
+RENSTR,,Structural upgrade,no system re-dated
+RENOTH,,Other renovation,no system re-dated

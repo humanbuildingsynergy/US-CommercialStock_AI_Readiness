@@ -1,0 +1,28 @@
+# Python 3.14. The results in this repository were computed, and the clean-clone check run, with exactly these versions.
+numpy==2.5.2
+pandas==3.0.3
+scipy==1.18.1
+matplotlib==3.11.0
+cycler==0.12.1
+# the census-division map only (figures/src/fig_geography.py); shapely >= 2.0.6 is needed with numpy 2
+geopandas==1.2.0
+shapely==2.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+# tests
+pytest==9.0.3
+# their dependencies, as installed for the check
+certifi==2026.10.23
+colorama==0.4.6
+contourpy==1.4.0
+fonttools==4.68.0
+iniconfig==2.3.1
+kiwisolver==1.5.1
+packaging==26.3
+pillow==13.0.0
+pluggy==1.7.0
+Pygments==2.21.0
+pyparsing==3.3.3
+python-dateutil==3.0.0
+six==1.17.0
+tzdata==2026.5

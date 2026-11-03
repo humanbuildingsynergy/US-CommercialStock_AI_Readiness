@@ -1,0 +1,4 @@
+# This study's sensitivity reading (the HVAC-credit scoring), NOT the readiness framework's question set. A cell's level is the higher of its question-set level and its level on these rungs, so equipment power keeps every level it reaches under the question set and no building scores lower. All other cells are the question set's. Code: atlas/canon.py _V2H_ALT.
+domain,intents,level_1,level_2,level_3,question_set_level_1,question_set_level_2,question_set_level_3
+equipment,status; summary,Run,Run+Load,,Pwr,Pwr,
+equipment,comparison; verification; diagnosis; explanation,Run,Run+Load,Load+Run+SAT,Pwr,Pwr,Load+Pwr+Run

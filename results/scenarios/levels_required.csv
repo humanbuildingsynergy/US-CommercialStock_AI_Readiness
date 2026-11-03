@@ -1,0 +1,4 @@
+level,answer levels,streams,means,cells answered
+8/76,8,Whole,whole-building interval meter only,energy status L1; energy summary L1; energy comparison L2; energy diagnosis L2; energy explanation L2
+12/76,12,Sp+T,zone temperature and setpoint only,thermal status L2; thermal summary L2; thermal comparison L2; thermal verification L2; thermal diagnosis L2; thermal explanation L2
+20/76,20,Sp+T+Whole,"zone temperature, setpoint and the whole-building interval meter",thermal status L2; thermal summary L2; thermal comparison L2; thermal verification L2; thermal diagnosis L2; thermal explanation L2; energy status L1; energy summary L1; energy comparison L2; energy diagnosis L2; energy explanation L2

@@ -1,0 +1,4 @@
+dimension,grid,reference,joint grid,source
+compliance c,"0.5, 0.6, 0.7, 0.8, 0.9, 1.0 (d = 1)",1.0,"{0.5, 0.75, 1.0} x {0.5, 0.75, 1.0}","sweep value, no source (rosenberg2017controls and tyler2021compliance give no usable installation rate)"
+description d,"0.5, 0.6, 0.7, 0.8, 0.9, 1.0 (c = 1)",1.0,"{0.5, 0.75, 1.0} x {0.5, 0.75, 1.0}","sweep value, no source"
+transfer shift delta,"-3 to +3 in steps of 0.25 on the log-odds scale; (a) type 'all' (δ) and 'partial' (δ/2) against 'none', (b) per-class rates, (a) and (b) together",0,—,"sweep value, no source (tipping-point analysis)"

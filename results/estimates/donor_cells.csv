@@ -1,0 +1,13 @@
+scenario,donor cell,redraws,share
+strict (low),type x size x period,277200,0.714801
+strict (low),type x size,67600,0.174317
+strict (low),type,2200,0.00567303
+strict (low),all records,40800,0.105209
+primary,type x size x period,277200,0.714801
+primary,type x size,67600,0.174317
+primary,type,2200,0.00567303
+primary,all records,40800,0.105209
+enriched (high),type x size x period,277200,0.714801
+enriched (high),type x size,67600,0.174317
+enriched (high),type,2200,0.00567303
+enriched (high),all records,40800,0.105209

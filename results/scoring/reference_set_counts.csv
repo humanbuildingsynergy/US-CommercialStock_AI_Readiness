@@ -1,0 +1,19 @@
+stream,meaning,"declared, all 45","linked, all 45","declared, 37 with C_declared > 0","linked, 37 with C_declared > 0","declared, 6 partial","linked, 6 partial",partial rate used (point),rate basis
+T,zone air temperature,30,23,30,23,4,4,0.8333,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+Sp,zone temperature setpoint in effect (heating or cooling),23,17,23,17,4,4,0.8333,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+SpC,scheduled (occupied/unoccupied) setpoint held apart from the setpoint in effect,1,0,1,0,0,0,0.5,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+ActC,"terminal actuation command (damper or valve command or setpoint, heating or cooling command)",26,16,26,16,3,3,0.8,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+ActP,"terminal actuation response (damper or valve position, terminal airflow)",17,13,17,13,2,2,0.75,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+SAT,supply air temperature of the air system serving the zone,40,32,35,28,6,6,1,empirical (>= 5 partial declarations)
+OAT,outside air temperature,39,31,33,26,6,6,1,empirical (>= 5 partial declarations)
+Occ,occupancy (presence or count),2,1,2,1,0,0,0.5,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+CO2,zone CO2 concentration,1,1,1,1,1,1,0.6667,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+OAF,outdoor-air flow,0,0,0,0,0,0,0.5,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+Whole,whole-building electricity meter,1,0,1,0,1,0,0.3333,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+Sub,"at least one end-use submeter (HVAC, lighting, plug loads, thermal energy)",22,12,22,12,6,2,0.3333,empirical (>= 5 partial declarations)
+Sub2,two end-use groups metered (the third is the residual of the whole),1,1,1,1,1,1,0.6667,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+Pwr,equipment input power (electricity or fuel),21,11,21,11,5,1,0.2,empirical (>= 5 partial declarations)
+Run,equipment run command or status,33,23,30,22,6,5,0.8333,empirical (>= 5 partial declarations)
+Load,"equipment load (air or water flow, delivered heating or cooling)",31,25,27,21,6,6,1,empirical (>= 5 partial declarations)
+Lgt,"lighting power, lighting status, or illuminance",0,0,0,0,0,0,0.5,"Beta(1, 1) posterior mean (< 5 partial declarations)"
+Run+Load,both streams declared (joint count),28,19,26,18,6,5,0.8333,empirical (>= 5 partial declarations)

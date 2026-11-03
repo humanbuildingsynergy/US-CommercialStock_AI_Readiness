@@ -1,0 +1,14 @@
+quantity,value,lo95,hi95
+graphs in the reference set with floor area,35,,
+median floor area (ft2),53229,,
+"slope, none vs all (per tenfold floor area)",-0.0955602,-2.55771,3.86297
+"slope, partial vs all (per tenfold floor area)",0.728278,-1.09454,3.69681
+likelihood-ratio statistic (2 df),0.382354,,
+p-value,0.825986,,
+bootstrap resamples used,1992,,
+"count < 25,000 ft2, all",6,,
+"count < 25,000 ft2, none",3,,
+"count < 25,000 ft2, partial",0,,
+"count >= 25,000 ft2, all",15,,
+"count >= 25,000 ft2, none",6,,
+"count >= 25,000 ft2, partial",5,,

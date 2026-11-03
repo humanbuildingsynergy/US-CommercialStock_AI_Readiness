@@ -1,0 +1,11 @@
+edition,published,doe_determination,fr_cite,certification_deadline,note,source
+pre-1989,0,,,,"no 90.1 edition: state codes based on ASHRAE 90-75 / 90A-1980, or no code",PNNL-19887 Table 7.1 (years before each state's 90.1-1989 adoption)
+1989,1989,EPAct 1992 baseline,42 USC 6833(b)(1),1994-10-24 (computed: 2 years after 1992-10-24),"statutory baseline, not a determination",42 USC 6833 (govinfo USCODE-2022)
+1999/2001,2000,2002-07-15,67 FR 46464,2004-07-15 (stated in 67 FR 46464),"one rung: DOE made no determination on 90.1-2001 (73 FR 79868). The IECC 2000/2003 <-> 90.1-1999/2001 pairing is PNNL-25611 Rev.1 Table A.1 (p. A.2); PNNL-31437 Table A.1 heads that column 'IECC 2003 / 90.1-2001'. The deadline is stated, not computed: 'Certifications ... are due at DOE on or before July 15, 2004' (67 FR 46464). Published 2000-02 per 67 FR; PNNL-19887 says 1999-10 (conflict; FR used)",67 FR 46464; 73 FR 79868; PNNL-25611 Rev.1 Table A.1 (p. A.2); PNNL-31437 Table A.1 header
+2004,2004,2008-12-30,73 FR 79868,2010-12-30,"IECC 2006 equivalent (PNNL-31437)",73 FR 79868
+2007,2007,2011-07-20,76 FR 43287,2013-07-20,"IECC 2009 equivalent",76 FR 43287
+2010,2010,2011-10-19,76 FR 64904,2013-10-18,"IECC 2012 equivalent",76 FR 64904
+2013,2013,2014-09-26,79 FR 57900,2016-09-26 (79 FR 60459 correction),"IECC 2015 equivalent",79 FR 57900; 79 FR 60459
+2016,2016,2018-02-27,83 FR 8463,2020-02-27 (computed),"IECC 2018 equivalent; the newest edition any CBECS 2018 building can carry",83 FR 8463
+2019,2019,2021-07-28,86 FR 40543,2023-07-28,"counterfactual rung only: published after every CBECS 2018 window, so the clamp never assigns it",86 FR 40543
+2022,2022,,,,"counterfactual rung only; DOE determination TSD fetched (data/sources/ashrae/tsd2022.pdf), FR cite not pinned",PNNL/DOE 90.1-2022 final determination TSD

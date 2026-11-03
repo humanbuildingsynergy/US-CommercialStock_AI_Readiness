@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the paper (preferred-citation) and this repository."
+title: "Code and data for: AI readiness of the U.S. commercial building stock"
+type: software
+version: 1.0.0
+date-released: "2026-11-02"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+authors:
+  - family-names: Jung
+    given-names: Wooyoung
+    affiliation: University of Arizona
+    orcid: "https://orcid.org/0000-0003-2746-4983"
+repository-code: "https://github.com/humanbuildingsynergy/us-commercial-ai-readiness"
+keywords:
+  - AI readiness
+  - commercial building stock
+  - building energy codes
+  - multiple imputation
+  - building data
+  - CBECS
+preferred-citation:
+  type: article
+  title: "How ready is the United States commercial building stock for artificial intelligence? A national estimate from energy codes and survey data"
+  authors:
+    - family-names: Jung
+      given-names: Wooyoung
+      orcid: "https://orcid.org/0000-0003-2746-4983"
+  identifiers:
+    - type: other
+      value: "arXiv:XXXX.XXXXX"
+      description: "arXiv preprint (identifier to be added)"
+references:
+  - type: software
+    title: "building-ai-readiness: code, results and supplement for a measurement-based AI-readiness assessment of buildings"
+    version: 1.0.0
+    doi: 10.5281/zenodo.23197610
+    authors:
+      - family-names: Jung
+        given-names: Wooyoung

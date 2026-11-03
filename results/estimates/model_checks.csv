@@ -1,0 +1,21 @@
+statistic,observed,simulated 2.5%,simulated 97.5%,inside,Pr(sim >= obs),Pr(sim <= obs),two-sided p
+all,22,16,31,True,0.7645,0.317,0.634
+none,9,4,18,True,0.66,0.4445,0.889
+partial,6,0,6,True,0.065,0.976,0.13
+partial ratio min,0.304362,0.233333,0.857143,True,0.774356,0.225644,0.451288
+partial ratio max,0.750119,0.304348,0.95,True,0.419373,0.580627,0.838746
+"linked count, T (declared 30)",23,15,28,True,0.4825,0.633,0.965
+"linked count, Sp (declared 23)",17,11,22,True,0.584,0.5455,1
+"linked count, SpC (declared 1)",0,0,1,True,1,0.3085,0.617
+"linked count, ActC (declared 26)",16,13,24,True,0.87,0.1955,0.391
+"linked count, ActP (declared 17)",13,7,16,True,0.467,0.705,0.934
+"linked count, SAT (declared 35)",28,18.975,32,True,0.398,0.7055,0.796
+"linked count, OAT (declared 33)",26,18,31,True,0.4435,0.6615,0.887
+"linked count, Occ (declared 2)",1,0,2,True,0.888,0.5275,1
+"linked count, CO2 (declared 1)",1,0,1,True,0.6965,1,1
+"linked count, Whole (declared 1)",0,0,1,True,1,0.354,0.708
+"linked count, Sub (declared 22)",12,9,19,True,0.8345,0.266,0.532
+"linked count, Sub2 (declared 1)",1,0,1,True,0.715,1,1
+"linked count, Pwr (declared 21)",11,8,18,True,0.843,0.2555,0.511
+"linked count, Run (declared 30)",22,15,27,True,0.5615,0.564,1
+"linked count, Load (declared 27)",21,14,25,True,0.4945,0.623,0.989

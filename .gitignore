@@ -1,0 +1,7 @@
+# fetched third-party inputs (scripts/fetch_data.py) and large outputs stay out of git
+data/
+results/raw/
+*.part
+__pycache__/
+*.pyc
+.pytest_cache/

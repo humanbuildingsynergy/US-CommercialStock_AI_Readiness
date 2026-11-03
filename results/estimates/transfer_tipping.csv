@@ -1,0 +1,19 @@
+conclusion,axis,point flips (down),interval includes opposite (down),point flips (up),interval includes opposite (up),holds at reference,variant
+most floor area reaches no readiness tier (H1),delta,none in range,none in range,none in range,none in range,True,a
+readiness concentrated in large buildings (H2b),delta,none in range,none in range,none in range,none in range,True,a
+a minority of floor area is diagnosis-ready at the declared level (H3),delta,none in range,none in range,none in range,none in range,True,a
+building type explains more than construction period (H4),delta,-1.75,-0.25,none in range,none in range,True,a
+small < mid-size buildings (size ranking),delta,none in range,-2.0,none in range,none in range,True,a
+mid-size < large buildings (size ranking),delta,none in range,none in range,none in range,none in range,True,a
+most floor area reaches no readiness tier (H1),delta,none in range,none in range,none in range,none in range,True,b
+readiness concentrated in large buildings (H2b),delta,none in range,none in range,none in range,none in range,True,b
+a minority of floor area is diagnosis-ready at the declared level (H3),delta,none in range,none in range,none in range,none in range,True,b
+building type explains more than construction period (H4),delta,none in range,-1.25,none in range,none in range,True,b
+small < mid-size buildings (size ranking),delta,none in range,none in range,none in range,none in range,True,b
+mid-size < large buildings (size ranking),delta,none in range,none in range,none in range,none in range,True,b
+most floor area reaches no readiness tier (H1),delta,none in range,none in range,none in range,none in range,True,ab
+readiness concentrated in large buildings (H2b),delta,none in range,none in range,none in range,none in range,True,ab
+a minority of floor area is diagnosis-ready at the declared level (H3),delta,none in range,none in range,none in range,none in range,True,ab
+building type explains more than construction period (H4),delta,-1.75,-0.25,none in range,none in range,True,ab
+small < mid-size buildings (size ranking),delta,none in range,-1.75,none in range,none in range,True,ab
+mid-size < large buildings (size ranking),delta,none in range,-3.0,none in range,none in range,True,ab

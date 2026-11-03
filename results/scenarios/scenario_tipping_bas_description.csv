@@ -1,0 +1,7 @@
+conclusion,axis,c,point flips (down),interval includes opposite (down),point flips (up),interval includes opposite (up),holds at reference
+most floor area reaches no readiness tier (H1),d,1.0,none in range,0.05,none in range,none in range,True
+readiness concentrated in large buildings (H2b),d,1.0,0.05,0.3,none in range,none in range,True
+a minority of floor area is diagnosis-ready at the declared level (H3),d,1.0,none in range,none in range,none in range,none in range,True
+building type explains more than construction period (H4),d,1.0,none in range,0.9,none in range,none in range,True
+small < mid-size buildings (size ranking),d,1.0,none in range,0.5,none in range,none in range,True
+mid-size < large buildings (size ranking),d,1.0,none in range,none in range,none in range,none in range,True

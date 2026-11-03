@@ -1,0 +1,5 @@
+id,role,population,statistic,rationale
+R1,central,all 45 graphs with C_declared > 0,ratio of sums: sum(C_linked) / sum(C_declared),"the readiness framework's own framing ('15 of 45 graphs declare more than their data support') counts graphs whose points carry no series as declared-without-data; a ratio of sums weights graphs by how much they declare"
+R2,interval,all 45 graphs with C_declared > 0,"2.5 and 97.5 percentiles of R1 over 10,000 graph bootstrap resamples, seed 20261009","the interval carries sampling uncertainty over the 45 graphs only; the population mismatch (campus-skewed graphs vs the U.S. stock) is an honesty boundary, not an interval"
+R3,alternative,the 37 graphs with at least one linked series,ratio of sums,"treats unlinked graphs as unpublished data rather than undeclared streams; reported as an alternative"
+R4,alternative,all 45 graphs with C_declared > 0,median of per-graph C_linked / C_declared,"reported only: most graphs link everything they declare, so the median is 1.0 and would discount nothing"

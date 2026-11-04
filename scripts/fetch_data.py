@@ -16,7 +16,7 @@ import zipfile
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parents[1] / "data"
-UA = {"User-Agent": "Mozilla/5.0 (research data download; us-commercial-ai-readiness)"}
+UA = {"User-Agent": "Mozilla/5.0 (research data download; US-CommercialStock_AI_Readiness)"}
 
 # (local path under data/, URL, sha256, what it is)
 FILES = [

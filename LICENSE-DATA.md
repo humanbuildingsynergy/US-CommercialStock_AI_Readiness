@@ -1,4 +1,4 @@
-Tables and results of "us-commercial-ai-readiness" (tables/, results/, and the figures and table files under figures/)
+Tables and results of "US-CommercialStock_AI_Readiness" (tables/, results/, and the figures and table files under figures/)
 Copyright (c) 2026 Wooyoung Jung
 
 These tables and results are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0),

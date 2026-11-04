@@ -2,8 +2,9 @@ cff-version: 1.2.0
 message: "If you use this code or its results, please cite the paper (preferred-citation) and this repository."
 title: "Code and data for: AI readiness of the U.S. commercial building stock"
 type: software
-version: 1.0.0
-date-released: "2026-11-02"
+version: 1.0.1
+date-released: "2026-11-04"
+doi: 10.5281/zenodo.23966090
 license:
   - Apache-2.0
   - CC-BY-4.0
@@ -12,7 +13,7 @@ authors:
     given-names: Wooyoung
     affiliation: University of Arizona
     orcid: "https://orcid.org/0000-0003-2746-4983"
-repository-code: "https://github.com/humanbuildingsynergy/us-commercial-ai-readiness"
+repository-code: "https://github.com/humanbuildingsynergy/US-CommercialStock_AI_Readiness"
 keywords:
   - AI readiness
   - commercial building stock

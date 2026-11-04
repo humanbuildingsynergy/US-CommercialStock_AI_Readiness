@@ -140,8 +140,8 @@ Please cite the paper and this release:
 > Wooyoung Jung. *How ready is the United States commercial building stock for artificial intelligence? A national
 > estimate from energy codes and survey data.* arXiv:XXXX.XXXXX (identifier to be added).
 
-> Wooyoung Jung. *Code and data for: AI readiness of the U.S. commercial building stock*, version 1.0.0. Zenodo,
-> doi:10.5281/zenodo.XXXXXXX (DOI to be added).
+> Wooyoung Jung. *Code and data for: AI readiness of the U.S. commercial building stock*. Zenodo,
+> doi:10.5281/zenodo.23966090 (all versions; this release is version 1.0.1).
 
 `CITATION.cff` carries both. Please also cite the readiness framework (doi:10.5281/zenodo.23197610) for the question
 set and the reference set.

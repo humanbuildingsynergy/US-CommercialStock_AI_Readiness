@@ -1,5 +1,5 @@
 {
-  "title": "Code and data for: AI readiness of the U.S. commercial building stock",
+  "title": "AI Readiness of the U.S. Commercial Building Stock: Code and Data",
   "upload_type": "software",
   "description": "Code, assumption tables and results for the paper 'How ready is the United States commercial building stock for artificial intelligence? A national estimate from energy codes and survey data'. The study combines the 2018 Commercial Buildings Energy Consumption Survey, the ASHRAE 90.1 code clauses in force when each building was built or renovated, and a reference set of 45 building knowledge graphs, and estimates by multiple imputation how much of the stock's floor area records the data an AI system would need to answer questions about it. One command regenerates every number and every figure and table file the paper uses. Third-party inputs are not redistributed; a script downloads them from their publishers and checks their SHA-256.",
   "creators": [

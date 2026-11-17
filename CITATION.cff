@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or its results, please cite the paper (preferred-citation) and this repository."
 title: "AI Readiness of the U.S. Commercial Building Stock: Code and Data"
 type: software
-version: 1.0.1
-date-released: "2026-11-04"
+version: 1.0.2
+date-released: "2026-11-17"
 doi: 10.5281/zenodo.23966090
 license:
   - Apache-2.0
@@ -28,10 +28,12 @@ preferred-citation:
     - family-names: Jung
       given-names: Wooyoung
       orcid: "https://orcid.org/0000-0003-2746-4983"
+  doi: 10.48550/arXiv.2611.19942
+  url: "https://arxiv.org/abs/2611.19942"
   identifiers:
     - type: other
-      value: "arXiv:XXXX.XXXXX"
-      description: "arXiv preprint (identifier to be added)"
+      value: "arXiv:2611.19942"
+      description: "arXiv identifier"
 references:
   - type: software
     title: "building-ai-readiness: code, results and supplement for a measurement-based AI-readiness assessment of buildings"

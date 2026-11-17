@@ -9,8 +9,9 @@
   "keywords": ["AI readiness", "commercial building stock", "building energy codes", "multiple imputation", "building data",
                "CBECS"],
   "related_identifiers": [
+    {"identifier": "arXiv:2611.19942", "relation": "isSupplementTo", "resource_type": "publication-preprint"},
     {"identifier": "10.5281/zenodo.23197610", "relation": "references", "resource_type": "software"}
   ],
-  "version": "1.0.1",
-  "publication_date": "2026-11-04"
+  "version": "1.0.2",
+  "publication_date": "2026-11-17"
 }

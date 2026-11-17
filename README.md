@@ -3,7 +3,8 @@
 Code, assumption tables and results for the paper
 
 > Wooyoung Jung. *How ready is the United States commercial building stock for artificial intelligence? A national
-> estimate from energy codes and survey data.* arXiv:XXXX.XXXXX (identifier to be added).
+> estimate from energy codes and survey data.* arXiv:2611.19942,
+> doi:10.48550/arXiv.2611.19942.
 
 ## What the study estimates
 
@@ -138,10 +139,11 @@ tables keep the CC BY-NC 4.0 license of the release they come from; `NOTICE` lis
 Please cite the paper and this release:
 
 > Wooyoung Jung. *How ready is the United States commercial building stock for artificial intelligence? A national
-> estimate from energy codes and survey data.* arXiv:XXXX.XXXXX (identifier to be added).
+> estimate from energy codes and survey data.* arXiv:2611.19942,
+> doi:10.48550/arXiv.2611.19942.
 
 > Wooyoung Jung. *AI Readiness of the U.S. Commercial Building Stock: Code and Data*. Zenodo,
-> doi:10.5281/zenodo.23966090 (all versions; this release is version 1.0.1).
+> doi:10.5281/zenodo.23966090 (all versions; this release is version 1.0.2).
 
 `CITATION.cff` carries both. Please also cite the readiness framework (doi:10.5281/zenodo.23197610) for the question
 set and the reference set.
